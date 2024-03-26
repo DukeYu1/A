@@ -1552,8 +1552,8 @@
             "type": 0,
             "playerType": 2,
             "url": "https://d.kstore.space/download/7220/A.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1.112114.xyz/logo/{name}.png"
         },
         {
             "name": "白嫖",
@@ -1565,16 +1565,16 @@
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "type": 0,
             "url": "https://d.kstore.space/download/7220/ysp.m3u",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1.112114.xyz/logo/{name}.png"
         },
         {
             "name": "stream需梯子",
             "type": 0,
             "playerType": 1,
             "url": "http://www.stream-link.org/stream-link.m3u",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1.112114.xyz/logo/{name}.png"
         }
     ],
     "rules": [
