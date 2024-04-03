@@ -1568,7 +1568,7 @@
             "name": "白嫖2",
             "type": 0,
             "playerType": 2,
-            "url": "https://ysmao.eu.org/itvlist.txt",
+            "url": "https://epg.pw/test_channels.m3u",
             "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1.112114.xyz/logo/{name}.png"
         },
