@@ -1572,6 +1572,23 @@
             "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1.112114.xyz/logo/{name}.png"
         },
+ {
+            "name": "白嫖3",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://networkmms.xyz/live/tv.txt",
+            "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1.112114.xyz/logo/{name}.png"
+        },
+	     {
+            "name": "白嫖4",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://epg.pw/test_channels_hong_kong.m3u",
+            "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1.112114.xyz/logo/{name}.png"
+        },
+	    
         {
             "name": "嗅探",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
